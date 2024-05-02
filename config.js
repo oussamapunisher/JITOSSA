@@ -10,20 +10,20 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 //يمكنك إضافة رقمك للتحكم في البوت أو إن طلب شخص رقمك من البوت
 global.owner = [
-  ['212670941551', 'Omar', true],
+  ['21272050679', 'PUNISHER', true],
   
 ];
 
-global.suittag = ['212670941551'];
-global.prems = ['212670941551'];
+global.suittag = ['21272050679'];
+global.prems = ['21272050679'];
 
-global.packname = 'JITOSSA';
+global.packname = 'MIDOSSA';
 global.author = '';
-global.wm = 'OMAR';
-global.titulowm = 'JITOSSA';
-global.titulowm2 = `JITOSSA`
-global.igfg = 'JITOSSA';
-global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._\n\n *متابعة للمطور في إنستجرام* \n*_instagram.com/ovmar_1_*';
+global.wm = 'PUNISHER';
+global.titulowm = 'MIDOSSA';
+global.titulowm2 = `MIDOSSA`
+global.igfg = 'MIDOSSA';
+global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._\n\n *متابعة للمطور في إنستجرام* \n*_instagram.com/punisher__oussama*';
 global.waitt = '> سوف أجيب عن سؤالك بعد قليل ...';
 global.waittt = '> سوف يتم رسم صورتك بعد قليل ...';
 global.rwait = '⏳';
@@ -47,12 +47,12 @@ global.mes = d.toLocaleDateString('en', {month: 'long'});
 global.año = d.toLocaleDateString('en', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nJITOSSA`;
-global.gt = 'JITOSSA';
-global.mysticbot = 'JITOSSA';
-global.md = 'https://instagram.com/ovmar_1';
-global.mysticbot = 'https://instagram.com/ovmar_1';
-global.nomorown = '212670941551';
+global.wm2 = `${dia} ${fecha}\nMIDOSSA`;
+global.gt = 'MIDOSSA';
+global.mysticbot = 'MIDOSSA';
+global.md = 'https://instagram.com/punisher__oussama';
+global.mysticbot = 'https://instagram.com/punisher__oussama';
+global.nomorown = '212720506679';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
